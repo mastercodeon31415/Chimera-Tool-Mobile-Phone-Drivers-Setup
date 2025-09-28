@@ -13,7 +13,7 @@ This project provides a user-friendly Windows Forms installer to simplify the pr
 The application bundles all the driver files into a single executable. It then extracts them to a temporary location and uses the Windows `pnputil.exe` command-line utility to systematically install each driver from its `.inf` file, providing real-time feedback to the user.
 
 ### Built With
-*   .NET / C#
+*   .NET 10 / C#
 *   Windows Forms
 
 ---
@@ -32,7 +32,7 @@ The application bundles all the driver files into a single executable. It then e
 To use this installer, simply download and run the executable.
 
 ### Prerequisites
-*   Windows Operating System (7, 8, 10, 11)
+*   Windows Operating System (10, 11)
 *   Administrator privileges
 
 ### Usage
@@ -40,12 +40,12 @@ To use this installer, simply download and run the executable.
 1.  Download the latest `ChimeraToolMobilePhoneDriversSetup.exe` from the Releases section.
 2.  Run the executable. The application will prompt for administrator rights, which are required for installing drivers.
 3.  You will be greeted with the **Welcome** screen. Click `Next >` to proceed.
-    ![Welcome to the Chimera Tool Mobile Phone Drivers Setup Wizard](Screenshots/WelcomePage.png)
+    ![Welcome to the Chimera Tool Mobile Phone Drivers Setup Wizard](https://github.com/user-attachments/assets/7c9be1b3-eae2-4f00-aaf0-4d1d3ee689f0)
 4.  The installation process will begin automatically. The installer will first extract all driver files and then install them one by one. You can monitor the progress on the **Installing** screen.
-    ![Installing drivers...](Screenshots/InstallingPage.png)
+    ![Installing drivers...](https://github.com/user-attachments/assets/744d1755-4427-4a1c-9eef-b9b2fec70651)
 5.  Once all drivers are installed, the **Setup Finished** screen will appear. If a restart is required to finalize the installation, you will be notified.
 6.  Click `Finish` to close the installer and restart your computer later, or click `Reboot Now` to restart immediately.
-    ![Completing the setup](Screenshots/SetupFinishedPage.png)
+    ![Completing the setup](https://github.com/user-attachments/assets/0a5c304e-f381-4823-a5f3-5b8cef8fb9fe)
 
 ---
 ## How It Works
