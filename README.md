@@ -67,6 +67,16 @@ The application follows a straightforward logic:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or encounter any issues, please feel free to open an issue or submit a pull request.
+
+## Donation links
+
+Anything is super helpful! Anything donated helps me keep developing this program and others!
+- https://www.paypal.com/paypalme/lifeline42
+- https://cash.app/$codoen314
+
 ---
 ## Acknowledgments
 *   Big thanks to [jbrownwtf](https://github.com/justinbro5891) for dumping all the drivers from a fresh install of his system.
