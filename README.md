@@ -69,5 +69,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 ## Acknowledgments
-*   The original Chimera Tool for providing the comprehensive driver package.
-*   The open-source community.
+*   Big thanks to [jbrownwtf](https://github.com/justinbro5891) for dumping all the drivers from a fresh install of his system.
