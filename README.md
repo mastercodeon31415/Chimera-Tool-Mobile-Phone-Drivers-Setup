@@ -2,7 +2,7 @@
 
 A simple, automated, wizard-style installer for the complete collection of mobile phone drivers leaked from the Chimera Tool.
 
-![Welcome Screen](Screenshots/WelcomePage.png)
+![Welcome Screen](https://github.com/user-attachments/assets/7c9be1b3-eae2-4f00-aaf0-4d1d3ee689f0)
 
 ---
 
